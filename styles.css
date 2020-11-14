@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+}
+
+nav {
+  background-color: #E58461;
+}
+
+h1 {
+  color: #C77557;
+  padding: 40px 0;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.navbar-brand {
+  padding: 5px 70px 5px 5px;
+}
+
+.nav-item {
+  padding: 5px 20px;
+}
+
+.dropdown-menu :active {
+  background-color: #E58461;
+}
+
+.jumbo-container {
+  margin: 40px 80px;
+}
+
+.jumbotron {
+  background-color: #F4D4B8;
+}
+
+.jumbo-img {
+  float: right;
+  margin: auto;
+}
+
+.lead {
+  color: #C77557;
+}
+
+.blog-articles {
+  padding: 40px 0;
+}
+
+.contact-tify {
+  text-align: center;
+  padding: 40px 50px;
+}
+
+.form-group {
+  padding: 20px 0;
+}
+
+.submit-btn {
+  background-color: #F4D4B8;
+  color: #C77557;
+}
+
+.app-section {
+  color: #C77557;
+}
+
+h2 {
+  color: #C77557;
+}
+
+.pink-bg {
+  background-color: #F4D4B8;
+}
+
+.pink-bg li {
+  color: #C77557;
+}
